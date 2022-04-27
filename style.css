@@ -1,0 +1,26 @@
+.nav-link {
+  background-color: auto;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  background-color: #3e8e41;
+}
+
+.jumbotron {
+  padding: 5rem;
+  background-image: url(img/backgroung/bg.jpeg);
+}
+hr {
+  width: 20px;
+  height: 3px;
+  color: aliceblue;
+}
+section {
+  padding-top: 5rem;
+}
+body {
+  background: #000000;
+
+  color: #fffdfd;
+}
